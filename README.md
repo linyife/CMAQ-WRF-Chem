@@ -31,3 +31,5 @@
 **RegAEMS**：Regional Atmospheric Environment Modeling System（区域大气环境模拟系统，通常指中国自主研发的、集成从排放到模拟全过程的区域空气质量综合建模系统）<br>
 **AERMOD**：AMS/EPA Regulatory Model（美国气象学会/环保局法规模型，是国际通行的、基于稳态假设的法规级工业点源及面源环境影响评价模型）<br>
 **CALPUFF**：California Puff Model（加利福尼亚烟团模型，是美国环保局推荐的、适用于复杂地形和长距离输送（可达数百公里）情景的拉格朗日烟团扩散模型）<br>
+
+**MOSAIC**：Model for Simulating Aerosol Interactions and Chemistry（气溶胶相互作用与化学模拟模型）<br>
